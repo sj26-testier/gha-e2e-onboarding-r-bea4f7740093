@@ -1,7 +1,7 @@
 {
-  "number": 2,
+  "number": 3,
   "sampled_cli_sha": "0b2b5b26f97eefc48b366daf07a4bc2fae2e62b5",
   "sampled_plugin_sha": "030b67bcadefa5e6acf60d2f1374d50fe3abd032",
-  "prepared_at": "2026-09-13T17:47:32.231456+00:00",
+  "prepared_at": "2026-09-13T17:52:51.693769+00:00",
   "kind": "Unchanged complete upstream Cobra test-win job; source/config archival only"
 }
