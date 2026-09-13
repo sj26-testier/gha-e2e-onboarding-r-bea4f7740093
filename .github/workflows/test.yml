@@ -33,7 +33,7 @@ jobs:
           unzip
           mingw-w64-x86_64-go
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
 
     - uses: actions/cache@v4
       with:
